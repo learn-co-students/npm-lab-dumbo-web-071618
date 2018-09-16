@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctorpillcosby/npm-lab-dumbo-web-071618.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doctorpillcosby/npm-lab-dumbo-web-071618/issues"
+  },
+  "homepage": "https://github.com/doctorpillcosby/npm-lab-dumbo-web-071618#readme"
+}
