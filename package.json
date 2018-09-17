@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test maker",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kos2kos/npm-lab-dumbo-web-071618.git"
+  },
+  "keywords": [
+    "boom"
+  ],
+  "author": "nkosi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kos2kos/npm-lab-dumbo-web-071618/issues"
+  },
+  "homepage": "https://github.com/kos2kos/npm-lab-dumbo-web-071618#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17",
+    "moment": "^2.22.2"
+  }
+}
